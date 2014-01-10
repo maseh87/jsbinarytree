@@ -1,4 +1,4 @@
-//binary tree
+//binary tree practice
 
 function MakeBinaryTree(val) {
 	this.value = val;
